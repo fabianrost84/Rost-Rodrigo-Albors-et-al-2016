@@ -1,0 +1,4 @@
+datafile	../../data/cell_number_data.csv
+burn	1000000.0
+iter_	11000000.0
+thin	100
