@@ -1,6 +1,5 @@
 name: Rost_Rodrigo_et_al_2016
-channels: !!python/tuple
-- !!python/unicode 'defaults'
+
 dependencies:
 - backports=1.0=py27_0
 - backports_abc=0.4=py27_0
@@ -89,4 +88,3 @@ dependencies:
   - probfit==1.0.5
   - prompt-toolkit==1.0.3
   - uncertainties==3.0.1
-prefix: /home/fabian/anaconda2/envs/Rost_Rodrigo_et_al_2016
