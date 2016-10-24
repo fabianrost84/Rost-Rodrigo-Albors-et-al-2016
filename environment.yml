@@ -50,5 +50,7 @@ dependencies:
 - wheel=0.29.0=py27_0
 - zlib=1.2.8=3
 - pip:
+  - ipycache==0.1.4
   - probfit==1.0.5
   - uncertainties==3.0.1
+
